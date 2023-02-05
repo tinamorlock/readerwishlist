@@ -3,7 +3,7 @@ Web application built with Django that allows readers and authors to collaborate
 ## Introduction
 Reader Wishlist is a web application built with Python and Django that uses writing-to-market concepts to help authors connect deeper with the types of stories readers want to read. It is driven by reader-created content that highlights what they'd like to see published in the market.
 ## Current Status
-Working on ironing out bugs from Phase One.
+Working on mobile optimization before Phase One is complete.
 ### Bugs/Errors/Exceptions
 * None outstanding
 #### Resolved Bugs
