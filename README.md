@@ -6,15 +6,17 @@ Reader Wishlist is a web application built with Python and Django that uses writ
 Working on ironing out bugs from Phase One.
 ### Bugs/Errors/Exceptions
 * Permissions set are not working (logged out users can submit to the database)
-* When listing more than two items from a database query, the third goes outside the div
+
+#### Resolved Bugs
+* When listing more than two items from a database query, the third goes outside the div—fixed on 2/5/23 by moving a DIV tag
 ## February 2023 Notes
 ### Site Design
 The basic design of the website is in place. Still needs some minor tweaking for desktop browsing, and it also needs to be optimized for mobile.
 ### Forms
 The forms for user sign-up and database entry are operational and currently being tested. The initial testing shows that they are working, but the design and development needs some work.
 ### Blog
-The blog is fully operational and is able to accept comments. The form for entering comments needs some tweaking to the design. However, the page that lists all the blog entries has a bug that shows the third blog outside of the div.
+The blog is fully operational and is able to accept comments. The form for entering comments needs some tweaking to the design. H
 ### Stories
-A basic version of the story tool is up and working. However, it does lack some functionality that will be implemented in later phases of development. However, the page that lists all the story entries has a bug that shows the third story outside of the div.
+A basic version of the story tool is up and working. However, it does lack some functionality that will be implemented in later phases of development. 
 ### Deskstop Screenshot
 ![image](https://user-images.githubusercontent.com/117326004/216694909-40f36a47-bc40-4e8f-95be-aae7f039910a.png)
