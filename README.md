@@ -22,3 +22,5 @@ The blog is fully operational and is able to accept comments. The form for enter
 A basic version of the story tool is up and working. However, it does lack some functionality that will be implemented in later phases of development. 
 ### Deskstop Screenshot
 ![image](https://user-images.githubusercontent.com/117326004/216694909-40f36a47-bc40-4e8f-95be-aae7f039910a.png)
+### Mobile Screenshot
+![image](https://user-images.githubusercontent.com/117326004/216845594-53ae62f3-c094-45d0-b1e3-a644f591984c.png)
