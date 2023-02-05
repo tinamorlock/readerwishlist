@@ -12,6 +12,8 @@ Working on ironing out bugs from Phase One.
 ## February 2023 Notes
 ### Site Design
 The basic design of the website is in place. Still needs some minor tweaking for desktop browsing, and it also needs to be optimized for mobile.
+#### Mobile Optimization
+* Removed right-hand sidebar for mobile users (3/5/23)
 ### Forms
 The forms for user sign-up and database entry are operational and currently being tested. The initial testing shows that they are working, but the design and development needs some work.
 ### Blog
