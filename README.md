@@ -5,10 +5,10 @@ Reader Wishlist is a web application built with Python and Django that uses writ
 ## Current Status
 Working on ironing out bugs from Phase One.
 ### Bugs/Errors/Exceptions
-* Permissions set are not working (logged out users can submit to the database)
-
+* None outstanding
 #### Resolved Bugs
 * When listing more than two items from a database query, the third goes outside the div—fixed on 2/5/23 by moving a DIV tag
+* Permissions set are not working (logged out users can submit to the database)—fixed on 2/5/23 by removing nav item with if statement for logged out users
 ## February 2023 Notes
 ### Site Design
 The basic design of the website is in place. Still needs some minor tweaking for desktop browsing, and it also needs to be optimized for mobile.
